@@ -7,7 +7,8 @@
 
 # B1 Robot
 - [Information and Command Keys](b1_information.md)
-- [Architecture (Network ](b1_architecture.md)
+- [Architecture (Network and Interfaces)](b1_architecture.md)
+- [Setup Preparation (Network and OS)](b1_setup.md) 
   
 
 
