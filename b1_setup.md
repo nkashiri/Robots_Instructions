@@ -71,9 +71,9 @@ Solution:
 
 Add the path of the dynamic library to the /etc/ld.so.conf file. After saving, remember to sudo ldconfig to make the configuration take effect.
 
-2. Configure ~/.bashrc file
+1. Configure ~/.bashrc file
 <div style='text-align:center;'>
 <img width="80%" src="images/b1_bashrc.png">
 </div>
 
-Add the path of the dynamic library to the /.bashrc file, save it and reopen the terminal to make it take effect.
+Add the path of the dynamic library to the /.bashrc file, save it and reopen the terminal to make it take effect.  
